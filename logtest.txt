@@ -8,3 +8,4 @@ test create -> save scenario
 test pull remote branch > publish
 again
 test create -> save scenario
+test pull remote branch -> publish scenario
