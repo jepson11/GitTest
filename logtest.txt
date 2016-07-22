@@ -3,3 +3,4 @@ this is a test of revision:
 2
 3
 test branch changes
+test create -> publish scenario
