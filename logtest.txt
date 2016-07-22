@@ -4,3 +4,4 @@ this is a test of revision:
 3
 test branch changes
 test create -> publish scenario
+test create -> save scenario
