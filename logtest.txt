@@ -5,3 +5,4 @@ this is a test of revision:
 test branch changes
 test create -> publish scenario
 test create -> save scenario
+test pull remote branch > publish
