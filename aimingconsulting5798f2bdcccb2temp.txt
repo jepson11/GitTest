@@ -1,3 +1,0 @@
-&lt;p&gt;fdasfsdfdasfds&lt;/p&gt;
-
-&lt;p&gt;this is a test of merge&lt;/p&gt;
